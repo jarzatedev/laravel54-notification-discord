@@ -1,1 +1,1 @@
-# laravel54-notification-discord
+Send notificacion with laravel 5.4 to Discord channel.
